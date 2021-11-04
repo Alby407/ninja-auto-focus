@@ -1,0 +1,10 @@
+{
+  "name": "ninja-auto-focus",
+  "author": "Alby407",
+  "description": "Automatically uses the Focus skill when entering a dungeon or on revive.",
+  "version": "0.0.1",
+  "disableAutoUpdate": false,
+  "servers": [
+    "https://raw.githubusercontent.com/alby407/ninja-auto-focus/main/"
+  ]
+}
